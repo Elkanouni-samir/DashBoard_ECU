@@ -2,7 +2,7 @@
 This repository is a part of a big project, this repository hold the code and some illustartions that are going to be ran on a raspberry pico microcontroller to ensure some functions to be discussed later.
 </br> your discription sucks
 
-<H1> functionnalities </H>
+<H1> functionnalities </H1>
 <ul>
 <li> through CAN communication, get the value of RPM </li>
 <li> update the value shown on the dashboard to the new RPM </li>
